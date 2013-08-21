@@ -1,6 +1,6 @@
 import sys
 from PySide import QtGui
-from Function import xor
+from function import xor
 
 
 class Display(QtGui.QWidget):

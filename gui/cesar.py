@@ -1,6 +1,6 @@
 import sys
 from PySide import QtGui, QtCore
-from Function import cesar
+from function import cesar
 
 class Display(QtGui.QWidget):
 	def __init__(self,parent):
